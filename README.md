@@ -1,16 +1,21 @@
-### Hi there 👋
+# About Me
 
-<!--
-**ThePineapplePizza1/ThePineapplePizza1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Graduate student at Florida Polytechnic University studying Computer Science.
+- Favorite programming language is Java.
+- Experience with
+  - Python
+  - R
+  - JavaScript
+  - TypeScript
 
-Here are some ideas to get you started:
+### Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Pizza 🍕
+- Chess ♟
+- Video Games 🎮
+- Reading Books 📖
+
+### Projects
+
+- Created a CLI app for P2P encrypted message sending on a local network using Java, Docker, and Google Tink
+- Worked on a team creating a website that finds local pizza places and allowing the sorting of their distances and ratings using Typescript
